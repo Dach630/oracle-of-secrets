@@ -19,5 +19,7 @@ multi:
   
 jeu:
   2d, vue du dessus, camera suit le joueur.
+  action rpg, aventure
+  (inspiration ys, zelda, tales of)
   besoin de faire un moteur pour les colisions (et physique?)
    
